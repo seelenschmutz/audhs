@@ -3,48 +3,24 @@
 
 title: AuDHS Selbsthilfegruppe
 description: Informationen zur Selbsthilfegruppe für Menschen mit ADHS und Autismus
-baseurl: "/bay"
-url: "https://eliottvincent.github.io"
+baseurl: "/audhs"
+url: "https://seelenschmutz.github.io"
 og_image: /assets/img/profile-pic.jpg
-google_analytics: "UA-121636368-3"
 
 header:
   pages:
     - name: Home
       slug: /
-    - name: Work
-    - name: Blog
+    - name: Kontakt
+    - name: Impressum
 
 footer:
   show_powered_by: true
   contact:
     - type: email
       name: Email
-      value: yourmail@domain.com
-    - type: wechat
-      value: YourWeChatUsername
-      link: "#"
-  follow:
-    - type: twitter
-      name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - type: facebook
-      name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - type: linkedin
-      name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
-    - type: github
-      name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - type: dribbble
-      name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - type: rss
-      name: RSS
-      link: /feed.xml
-
+      value: kopfkirmes@proton.me
+      
 # Build settings
 markdown: kramdown
 sass:
