@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: https://seelenschmutz.github.io/audhs/assets/img/profile-pic.jpg
   alt: beach bild 
 ---
 
